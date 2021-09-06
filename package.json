@@ -1,0 +1,17 @@
+{
+  "name": "window-sweeper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx qode app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.37.3",
+    "screen-resolution": "^1.0.0"
+  }
+}
