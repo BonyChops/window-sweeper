@@ -165,7 +165,7 @@ const windowClosed = async (x, y, e) => {
     }
 
     sweepJob(board);
-    await sleep(1000);
+    await sleep(100);
     jobRunning = false;
 }
 
