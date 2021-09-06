@@ -7,6 +7,7 @@
 # window-sweeper
 The mine sweeping game using the window.  
 (Click below to watch video)
+[![screenshot](https://github.com/BonyChops/window-sweeper/raw/main/image.png)](https://twitter.com/BonyChops/status/1434850592992612352)
 
 # Setup
 
@@ -15,7 +16,7 @@ The mine sweeping game using the window.
     sudo apt install cmake imagemagick
     ```
 0. Run `npm i` (might take a long time).
-0. RUn `npm start` to play.
+0. Run `npm start` to play.
 
 # How to play
 Click close button on corner of window to open field, and click the window to mark as the "Flag".  

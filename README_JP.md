@@ -7,6 +7,7 @@
 # window-sweeper
 ウィンドウを用いた地雷処理ゲーム．  
 (以下をクリックで動画再生)
+[![screenshot](https://github.com/BonyChops/window-sweeper/raw/main/image.png)](https://twitter.com/BonyChops/status/1434850592992612352)
 
 # セットアップ
 
